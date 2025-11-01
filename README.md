@@ -120,14 +120,16 @@ I'm a passionate **Robotics & AI Engineer** who:
 - [ ] Real-time Computer Vision
 - [ ] AI-powered Decision Making
 
----
 
+!-- 🐍 SNAKE EATING CONTRIBUTIONS --
 <p align="center">
-  <img src="https://media0.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" width="500px"/>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500px"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADDY-ROBOTICS/ADDY-ROBOTICS/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADDY-ROBOTICS/ADDY-ROBOTICS/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ADDY-ROBOTICS/ADDY-ROBOTICS/output/github-snake.svg">
+  </picture>
 </p>
 
----
 
 ## 📫 Connect With Me
 
