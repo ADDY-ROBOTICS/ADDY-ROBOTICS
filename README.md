@@ -96,6 +96,7 @@ I'm a passionate **Robotics & AI Engineer** who:
   <img src="https://github-readme-stats.vercel.app/api?username=ADDY-ROBOTICS&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADDY-ROBOTICS&theme=radical" alt="GitHub streak"/>
   <img src="https://github-profile-trophy.vercel.app/?username=ADDY-ROBOTICS&theme=radical&no-frame=true&row=1&column=7"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ADDY-ROBOTICS&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph">
 </p>
 ---
 
